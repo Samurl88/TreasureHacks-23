@@ -1,0 +1,39 @@
+.add-button {
+    background-color: #03a9f4;
+    border-radius: 10px;
+    color: white;
+    margin-top: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.add-button:hover {
+    background-color: #37b2eb;
+}
+
+.remove-button {
+    background-color: #ff7d45;
+    border-radius: 10px;
+    color: white;
+    margin-top: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.remove-button:hover {
+    background-color: #fe8d5c;
+}
+
+.verdict {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+.true {
+    background-color: #defade;
+}
+
+.false {
+    background-color: #ffcccb;
+}
